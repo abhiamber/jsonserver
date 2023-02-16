@@ -31,6 +31,13 @@
       "password": "admin123",
       "userName": "admin",
       "id": 1
+    },
+    {
+      "email": "abhi@gmail.com",
+      "password": "kurkure",
+      "userName": "abhi",
+      "id": 2
     }
-  ]
+  ],
+  "stockBuy": []
 }
